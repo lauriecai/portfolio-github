@@ -26,13 +26,12 @@ body{
     align-items: center;
     justify-content: center;
 }
+p{
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 1.8rem;
+}
 h4{
     font-size: 1.8rem;
     color: #1b1c1f;
-    margin-bottom: 1.2rem;
-}
-p{
-    display: block;
-    font-size: 1.1rem;
-    color: grey;
 }
